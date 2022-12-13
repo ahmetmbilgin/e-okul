@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "name": "Ahmet",
+      "surName": "Bilgin",
+      "instructor": "Orkun Durmaz",
+      "lesson": "React",
+      "score": 76,
+      "id": "aavrklja"
+    },
+    {
+      "name": "Güntaç",
+      "surName": "Bey",
+      "instructor": "Orkun Durmaz",
+      "lesson": "Javascript",
+      "score": 68,
+      "id": "aavrkl213ja"
+    },
+    {
+      "name": "Şenay",
+      "surName": "Şentürk",
+      "instructor": "Orkun Durmaz",
+      "lesson": "Css",
+      "score": 98,
+      "id": "aav23rklja"
+    },
+    {
+      "name": "Furkan",
+      "surName": "Telli",
+      "instructor": "Orkun Durmaz",
+      "lesson": "Html",
+      "score": 100,
+      "id": "aav123rkl6ja"
+    },
+    {
+      "name": "Voluptatem voluptas",
+      "surName": "Exercitation dolor t",
+      "instructor": "In fugiat asperiore",
+      "lesson": "Quia culpa molestia",
+      "score": 63,
+      "id": "8R7poBJ"
+    },
+    {
+      "name": "Voluptatem voluptas",
+      "surName": "Exercitation dolor t",
+      "instructor": "In fugiat asperiore",
+      "lesson": "Quia culpa molestia",
+      "score": 63,
+      "id": "E6Lo08x"
+    },
+    {
+      "name": "Voluptatem voluptas",
+      "surName": "Exercitation dolor t",
+      "instructor": "In fugiat asperiore",
+      "lesson": "Quia culpa molestia",
+      "score": 63,
+      "id": "oCSwU8f"
+    }
+  ]
+}
